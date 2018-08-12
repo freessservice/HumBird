@@ -1,6 +1,9 @@
 # HumBird
+
+蜂鸟VPN
+
 A free android client for ss service.
 
+[Google Play下载(推荐)](https://play.google.com/store/apps/details?id=com.young.ss)
 
-Google Play 下载（推荐）
-官网直接下载APK（仅限无Google Play）
+[官网下载(无Google Play时)](xxx)
