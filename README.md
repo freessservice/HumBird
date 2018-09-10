@@ -14,7 +14,7 @@
 
 a. 示例：“balabala。ID：XXXYYY”或者“balabala。ID：XXXYYY，选2”
 
-b. Google Play评论会有延迟，奖励可能需要3-7天时间。同时请升级到最新版，老版本可能不支持。
+b. Google Play评论会有延迟，奖励可能需要3-7天时间（后台处理后会在Google Play中回复）。同时请升级到最新版，老版本可能不支持。
 
 
 ## 使用说明
