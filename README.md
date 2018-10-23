@@ -43,4 +43,4 @@
  
 Google Play 是唯一官方下载渠道：[Google Play下载(推荐)](https://play.google.com/store/apps/details?id=com.young.ss)
 
-如果你没有Google Play，你可以发邮件给作者获取apk文件。
+如果你没有Google Play，可以此下载最新apk安装包： https://github.com/freessservice/HumBird/releases 。
