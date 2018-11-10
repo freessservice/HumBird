@@ -6,6 +6,10 @@
 
 如果APP不能让你满意，请立刻删除APP并关闭页面，建议你使用付费APP。
 
+### [限时活动]
+1） 抽奖金币增加20%；
+
+2） VIP高速流量兑换2折；
 
 **Tips:请不要囤积金币，后期金币策略可能调整。人生得意须尽欢，莫使金樽空对月。**
 
@@ -89,4 +93,4 @@
  
 Google Play 是唯一官方下载渠道：[Google Play下载(推荐)](https://play.google.com/store/apps/details?id=com.young.ss)
 
-如果你没有Google Play，可以此下载最新apk安装包： https://github.com/freessservice/HumBird/releases 。
+如果你没有Google Play，可以此下载最新apk安装包： https://github.com/freessservice/HumBird/releases （选最新的版本）。
