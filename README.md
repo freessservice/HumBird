@@ -1,6 +1,13 @@
 # HumBird 蜂鸟
 
-蜂鸟vpn完全免费，目前依靠Google广告维持服务器开销（广告费越多，节点将会越多，取之于众，用之于众）。
+## 紧急通知 ##
+
+在Google Play上的最新版2.5由于做了大量更新(Google Play要求支持必须支持64/必须支持安卓9等)，导致部分机型从老版本升级后可能存在闪退的问题，部分手机删除后重装可以正常，但是目前还在测试中。
+如果你的2.5是从Google Play升级且存在问题，可以尝试从这里(https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5-new.apk)下载修复版试试。
+
+造成不便，非常抱歉！蜂鸟尽力尽快修复！目前已经对所有通道做提速，如果不介意删除重装，可以从这里下载2.3稳定版： https://github.com/freessservice/HumBird/releases/download/v2.3/Humbird-v2.3.apk
+
+
 
 标准节点可以立即使用，SVIP节点需要先主动观看广告（签到/抽奖等）获取金币，然后兑换为VIP流量即可使用SVIP高速节点。
 
