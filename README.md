@@ -12,13 +12,14 @@
 
 
 v2.5在Google Play发布，但是部分红米、魅族手机出现闪退，部分Pixel、小米、华为则完美运行，
-v2.5安装包（2个都可以，功能一样）：
+
+v2.5【]尝鲜】安装包（2个都可以，功能一样）：
 
 https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5.apk
 https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5-2.apk
 
 
-v2.8安装包：
+v2.8安装包（不卸载降级到2.5）：
 
 https://github.com/freessservice/HumBird/releases/download/v2.8/Humbird-v2.8.apk 
 
@@ -26,7 +27,7 @@ https://github.com/freessservice/HumBird/releases/download/v2.8/Humbird-v2.8.apk
 升级后如果想降级，只能删除重装，或者借助第三方工具！
 
 
-2.6稳定版（等同于2.3）：
+2.6岁月静好稳定版（等同于2.3）：
 
 https://github.com/freessservice/HumBird/releases/download/v2.6/Humbird-v2.6.apk
 
