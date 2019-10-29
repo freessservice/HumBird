@@ -1,11 +1,26 @@
 # HumBird 蜂鸟
 
-## 紧急通知 ##
+## 版本说明 ##
 
-在Google Play上的最新版2.5由于做了大量更新(Google Play要求支持必须支持64/必须支持安卓9等)，导致部分机型从老版本升级后可能存在闪退的问题，部分手机删除后重装可以正常，但是目前还在测试中。
-如果你的2.5是从Google Play升级且存在问题，可以尝试从这里(https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5-new.apk )下载修复版试试。
+目前的稳定版本是2.3和2.5，版本2.3已经稳定运行数月，版本2.5为最近发布的增加了很多功能的版本。
 
-造成不便，非常抱歉！蜂鸟尽力尽快修复！目前已经对所有通道做提速，如果不介意删除重装，可以从这里下载2.3稳定版： https://github.com/freessservice/HumBird/releases/download/v2.3/Humbird-v2.3.apk
+2.5和2.8功能完全一样，相对2.3增加功能：
+1）可以分应用代理，设置常用不需要代理的APP可以在VPN后台常驻时正常使用网络，不走VPN、不消耗VIP流量；
+2）服务器节点压力实时显示，可以在选择节点时避开繁忙节点，体验更好；
+3）针对安卓9和64位机器做了优化（虽然可能体现不明显，但是Google是这么说的）
+
+v2.5在Google Play发布，但是部分红米、魅族手机出现闪退，部分Pixel、小米、华为则完美运行，
+v2.5安装包（2个都可以，功能一样）：
+https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5.apk
+https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5-2.apk
+
+
+v2.8安装包： https://github.com/freessservice/HumBird/releases/download/v2.8/Humbird-v2.8.apk 
+，2.8未在Google Play发布，部分经过魔改的安卓手机出现闪退等问题，如果出现问题，请不要升级到2.8。
+升级后如果想降级，只能删除重装，或者借助第三方工具！
+
+
+2.6稳定版（等同于2.3）： https://github.com/freessservice/HumBird/releases/download/v2.6/Humbird-v2.6.apk
 
 
 
@@ -13,7 +28,6 @@
 
 如果拥有VIP高速流量，也可以以VIP高速模式链接标准节点（VIP模式开关在节点选择右侧）。
 
-如果你对VPN网络速度、质量要求比较高，蜂鸟APP不能让你满意，或者在Google Play给非五星评价，请立刻删除APP并关闭页面，节省蜂鸟有限的资源给需要的人，建议你使用其他APP。
  
  ## 常见问题及解决方法
   
