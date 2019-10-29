@@ -4,23 +4,31 @@
 
 目前的稳定版本是2.3和2.5，版本2.3已经稳定运行数月，版本2.5为最近发布的增加了很多功能的版本。
 
+
 2.5和2.8功能完全一样，相对2.3增加功能：
 1）可以分应用代理，设置常用不需要代理的APP可以在VPN后台常驻时正常使用网络，不走VPN、不消耗VIP流量；
 2）服务器节点压力实时显示，可以在选择节点时避开繁忙节点，体验更好；
 3）针对安卓9和64位机器做了优化（虽然可能体现不明显，但是Google是这么说的）
 
+
 v2.5在Google Play发布，但是部分红米、魅族手机出现闪退，部分Pixel、小米、华为则完美运行，
 v2.5安装包（2个都可以，功能一样）：
+
 https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5.apk
 https://github.com/freessservice/HumBird/releases/download/v2.5/Humbird-v2.5-2.apk
 
 
-v2.8安装包： https://github.com/freessservice/HumBird/releases/download/v2.8/Humbird-v2.8.apk 
+v2.8安装包：
+
+https://github.com/freessservice/HumBird/releases/download/v2.8/Humbird-v2.8.apk 
+
 ，2.8未在Google Play发布，部分经过魔改的安卓手机出现闪退等问题，如果出现问题，请不要升级到2.8。
 升级后如果想降级，只能删除重装，或者借助第三方工具！
 
 
-2.6稳定版（等同于2.3）： https://github.com/freessservice/HumBird/releases/download/v2.6/Humbird-v2.6.apk
+2.6稳定版（等同于2.3）：
+
+https://github.com/freessservice/HumBird/releases/download/v2.6/Humbird-v2.6.apk
 
 
 
